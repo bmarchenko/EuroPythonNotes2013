@@ -1,0 +1,69 @@
+﻿Main point is “Do fast, relesaese early and often, listen to users feedback” 
+
+
+Theses:
+NEw Jersey approach "Worse is Better" vs MIT/Stanford approach "The right THing"
+"Anything worth doing is worth doing badly" because it will be deployed faster and solve users problem
+Core bazaar idea "given enough eyeballs, all bugs are shallow"
+
+
+What not to skimp on:
+-light-weight agile process and its steps
+--revision control system, code reviews, testing..
+--proper release-engineering practices
+-code-style, clarity, eleagance
+-documentation
+
+
+Must be from the start
+-security, in the mast general sense, incl:
+--privacy
+--audibility
+
+
+Many other things would be 'best' to have at the start but you CAN refactor later
+--modularity plugins
+--API
+--scalability
+-you CAN incur technical debt, __with care__
+
+
+Focus on potencial errors that could cause irrecoverable lodded
+--as long as one can recover its OK
+--..in a beta at least
+-is the reputational damage to yourself recoverable?
+--it depends but most usually YES
+---esp w courteuous speedy response to issuesthat get reported(=="service")
+--"get it right the 2nd time" is usually OK
+
+
+Customer service secret:
+"Customer with the highest levels of satisfaction tend to be those who have had a problem resolved"
+
+
+General vs ad-hoc solution:
+-intuition tell us ad-hoc easier, faster
+-reality: sometimes but not always(DRY)
+
+
+Examples
+ about project that tend to be perfect vs those that was developed fast:
+1.syscall ITL vs Unix
+2.Python Metaclass vs Decorator
+3.examples not only in programming
+"Good enough never is" Eric Ries
+"Lean Startups" use "middle way"
+minimum viable product: that version that allows to collect max feedbacks
+google "try to hire perfect emplioyee"
+-rather
+--pick a GOOD fit
+--focus on personality and culture match
+--provide training 
+
+Book "Satisfier vs Maximizer" "" The Paradox of cjoice Why More is Less Barry Schwartz
+
+Gettysburg Dedication -speaker 13000 word in two hours vs Linkoln 267 words in two minutes
+"Lowering expectations?" No
+the best way to those dreams remains release early release often, learn from real users interaction
+
+aleax.it/europ13_geige.pdf
