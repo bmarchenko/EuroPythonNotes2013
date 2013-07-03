@@ -1,0 +1,21 @@
+The next generarion of GUI
+
+Three requirements that are tradeoffs at the dame time:
+-simplicity
+-user friendliness
+-testability
+
+OSX human interface guidelines:
+-use progress indicator
+-provide cancel button
+-respond to events
+-similar controls as in other places
+
+Read: 
+Multithread toolkits - a failed dream? Graham Hamilton
+
+How it works now VisualBasic(easy, not testable, not userfriendly), Java(very user friendly, not testible, not easy), finally read about Comelot project. THis must be the most sutable tradeoff.
+
+check pep 342(Coroutines via Enhanced Generators)
+check pep 380(Syntax for Delegating to a Subgenerator)
+
